@@ -973,7 +973,6 @@ header .mega-menu .links li i {
     left: 50%;
     transform: translateX(-50%);
     background-color: var(--main-color);
-    /* z-index: 1; */
     transition: var(--main-transition);
     -webkit-transition: var(--main-transition);
     -moz-transition: var(--main-transition);
